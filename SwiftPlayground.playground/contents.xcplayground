@@ -3,9 +3,12 @@
     <pages>
         <page name='Protocols'/>
         <page name='First Steps'/>
-        <page name='Closures'/>
+        <page name='Function &amp; Closures'/>
         <page name='String'/>
         <page name='Numbers'/>
         <page name='Typealias'/>
+        <page name='String Collection'/>
+        <page name='Collection Types'/>
+        <page name='Object &amp; Class'/>
     </pages>
 </playground>
